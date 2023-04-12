@@ -4,22 +4,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif" height="250" width="350"/>
-<!-- <div id="badges">
-  <a href="https://www.instagram.com/bizit_39/">
-    <img src="https://img.shields.io/badge/Instagram-DDA0DD?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div> -->
   </div>
   
   ### :man_technologist: Обо мне :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: Повышаю свою производительность за счёт упорства.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Хочу в команду опытных Фронтендеров.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: Пытаюсь сделать свой код еще более читабельным.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Мечтаю стать Гуру Front-end.
 
 ---
 
